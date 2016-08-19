@@ -1,10 +1,10 @@
-# ASP.NET Core Hello World
+# aspnet-hello-world
 
 Simply playing around with .NET core and Visual Studio Code on Linux.
 
 ## Installation
 
-1. Install [.NET Core 1.0](https://www.microsoft.com/net/core)
+1. Install [.NET Core](https://www.microsoft.com/net/core) 1.0
 1. Install the Nuget dependencies: `dotnet restore`
 
 ## Usage
