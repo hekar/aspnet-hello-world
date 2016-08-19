@@ -14,6 +14,10 @@ dotnet run
 
 Open browser at `http://localhost:5000/mvc`
 
+## Credits
+
+Based on [ASP.NET Core 1.0 Deep Dive](https://www.youtube.com/watch?v=GafJJ32lKyk).
+
 ## License
 
 [MIT](./LICENSE)
